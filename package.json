@@ -1,11 +1,12 @@
 {
   "name": "deepseek",
-  "displayName": "deepseek",
+  "displayName": "deepseek21675367626",
   "description": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
   },
+  "publisher": "adams-stuff",
   "categories": [
     "Other"
   ],
@@ -40,5 +41,9 @@
   },
   "dependencies": {
     "ollama": "^0.5.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonicpanther101/deepseek.git"
   }
 }
